@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+  <loc>https://morningsandmulligans.com/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+  <image:image><image:loc>https://morningsandmulligans.com/img/deck-sweet-tea-golfers.webp</image:loc><image:title>Golfers passing the back deck at sunset on Callawassie Island</image:title></image:image>
+  <image:image><image:loc>https://morningsandmulligans.com/img/golf-course-live-oaks.webp</image:loc><image:title>Live oaks lining a fairway on the Callawassie Island golf course</image:title></image:image>
+  <image:image><image:loc>https://morningsandmulligans.com/img/primary-king-bedroom.webp</image:loc><image:title>Primary king bedroom at Mornings & Mulligans</image:title></image:image>
+  <image:image><image:loc>https://morningsandmulligans.com/img/clubhouse-pool.webp</image:loc><image:title>Clubhouse pool at Callawassie Island Club</image:title></image:image>
+</url>
+<url>
+  <loc>https://morningsandmulligans.com/hilton-head-golf-vacation-rental/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+  <image:image><image:loc>https://morningsandmulligans.com/img/marsh-live-oak-sunset.webp</image:loc><image:title>Live oak and Spanish moss over the marsh at sunrise</image:title></image:image>
+</url>
+<url>
+  <loc>https://morningsandmulligans.com/beaufort-sc-vacation-rental/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+  <image:image><image:loc>https://morningsandmulligans.com/img/golf-wooden-bridge.webp</image:loc><image:title>Wooden golf bridge over the marsh</image:title></image:image>
+</url>
+
+<url>
+  <loc>https://morningsandmulligans.com/parris-island-graduation-lodging/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+  <image:image><image:loc>https://morningsandmulligans.com/img/green-morning-mist.webp</image:loc><image:title>Green and flag in morning mist</image:title></image:image>
+</url>
+</urlset>
